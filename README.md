@@ -4,8 +4,8 @@
 
 - 🏫 Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**
 - 🔭 Currently focusing on **RTL design**, **FPGA** and **RISC-V based SoC architecture**
-- 🌱 Learning: **AI accelerator / Edge AI**, hardware–software co-design, and **Machine Learning** fundamentals
-- 🎯 Goal: become a professional hardware engineer who can bridge digital design and AI workloads
+- 🌱 Learning: **AI accelerator / Edge AI**, hardware–software co-design, hardware conectivity, SoC desgin.
+- 🎯 Goal: Become a professional hardware engineer and SoC enginerring.
 - 💬 Always happy to talk about digital design, FPGA, and embedded systems
 
 ---
@@ -18,7 +18,6 @@
 ![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-FF8800?style=for-the-badge&logo=amd&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![AXI4](https://img.shields.io/badge/AXI4--Lite-444?style=for-the-badge)
 
 **Embedded & software**
 
@@ -50,8 +49,8 @@
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:longhuynhc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/longle-undefined-5247983b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/LeLong356"><img src="https://img.shields.io/badge/GitHub-LeLong356-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
