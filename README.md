@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=560&lines=Computer+Engineering+%40+HCMUT;RTL+%2F+FPGA+%2F+RISC-V;Building+AI+hardware+accelerators" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeLong356&label=Profile+views&color=1f6feb&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 🧑‍💻 About me
 
 - 🏫 Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**
