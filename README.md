@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Long 👋
+Computer Engineering @ HCMUT | RTL / FPGA / RISC-V
 
-<!--
-**LeLong356/LeLong356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I'm working on
+- RISC-V controlled MHSA accelerator on FPGA
+- RTL design in SystemVerilog
 
-Here are some ideas to get you started:
+## 🛠 Tech stack
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1f6feb?style=flat)
+![Verilog](https://img.shields.io/badge/Verilog-orange?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FF8800?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 📫 Contact
+[LinkedIn](link) · [Email](mailto:you@mail.com)
